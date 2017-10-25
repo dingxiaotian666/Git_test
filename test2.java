@@ -1,5 +1,5 @@
 public class Test{
-	
+	// this text push from test_clone 
 	String name;
 	
 	int id;
